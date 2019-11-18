@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DriverExam
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DriverExam\ here.\r\n\r\n\ @author\ Mert\r\n\ @version\ 1409\r\n
+comment1.params=
+comment1.target=DriverExam()
+comment1.text=\r\n\ Costructor\ for\ DriverExam\ objects\r\n
+comment2.params=
+comment2.target=void\ promptStudentAnswers()
+comment2.text=\r\n\ method\ prompStudentAnswers\r\n\ gets\ input\ from\ driver\r\n
+comment3.params=
+comment3.target=int\ getTotalCorrectAnswers()
+comment3.text=\r\n\ method\ getTotalCorrectAnswers\r\n\ return\ correctAnswers\r\n
+comment4.params=
+comment4.target=boolean\ passed()
+comment4.text=\r\n\ method\ passed\r\n\ returns\ true\ if\ correct\ answers\ greater\ than\ or\ equal\ to\ passingScore\r\n
+comment5.params=
+comment5.target=int\ getTotalIncorrectAnswers()
+comment5.text=\r\n\ method\ getTotalIncorrectAnswers\r\n\ return\ incorrectAnswers\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

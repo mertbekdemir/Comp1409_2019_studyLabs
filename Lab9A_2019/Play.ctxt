@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Play
+comment1.params=
+comment1.target=Play()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Play\r\n
+comment2.params=
+comment2.target=void\ stringPlay()
+comment2.text=\r\n\ method\ stringPlay\r\n
+comment3.params=
+comment3.target=void\ getMultiplicationTable()
+comment3.text=\r\n\ method\ getMultiplicationTable\r\n
+comment4.params=
+comment4.target=void\ guessTheNumber()
+comment4.text=\r\n\ method\ guessTheNumber\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

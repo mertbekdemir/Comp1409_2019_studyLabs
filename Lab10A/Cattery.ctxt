@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Cattery
+comment1.params=businessName
+comment1.target=Cattery(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cattery\r\n
+comment2.params=newCat
+comment2.target=void\ addCat(Cat)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=index
+comment3.target=void\ getCat(int)
+comment3.text=\r\n\ method\ getCat\r\n
+comment4.params=index
+comment4.target=void\ removeCat(int)
+comment4.text=\r\n\ method\ removeCat\r\n
+comment5.params=
+comment5.target=void\ displayAllCats()
+comment5.text=\r\n\ method\ displayNamesOfAllCats\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

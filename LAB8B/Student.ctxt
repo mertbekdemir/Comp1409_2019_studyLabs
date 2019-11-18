@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\nclass\ Student\r\n\ @author\ mert\r\n\ @version\ 1409\r\n
+comment1.params=studentName
+comment1.target=Student(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ Student\ objects\r\n
+comment2.params=newStudentName
+comment2.target=void\ setStudentName(java.lang.String)
+comment2.text=\r\n\ methot\ setStudentName\r\n\r\n\ @param\ \ newStudentName\r\n
+comment3.params=
+comment3.target=java.lang.String\ getStudentName()
+comment3.text=\r\n\ method\ getStudentName\r\n\r\n\ @return\ \ \ \ studentName\r\n
+comment4.params=
+comment4.target=void\ promptStudentMarks()
+comment4.text=\r\n\ method\ promptStudentMarks\r\nstores\ all\ the\ marks\ entered\ by\ student\r\n
+comment5.params=
+comment5.target=double\ calculateAverageMark()
+comment5.text=\r\n\ method\ calcualteAverageMark\r\n\r\n\ \r\n\ @return\ \ \ \ averageMark\r\n
+comment6.params=
+comment6.target=int\ calculateTotalPassedExam()
+comment6.text=\r\n\ method\ calculateTotalPassedNumber\r\n\r\n\ @return\ \ totalPassedExamNumber\r\n
+comment7.params=
+comment7.target=boolean\ isPassed()
+comment7.text=\r\n\ method\ isPassed\r\n\r\n\ @return\ true\ if\ mark\ is\ greater\ than\ or\ equal\ to\ pass\ mark\r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
